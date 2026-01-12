@@ -1,60 +1,45 @@
-# 💫 Hi 👋, I'm Prasad Banarase  
-### 💻 Aspiring Java Full Stack Developer | Software Developer  
-📍 India 🇮🇳  
+<!-- ================= PROFILE HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
+<h3 align="center">👨‍💻 Aspiring Java Full Stack Developer | Software Developer</h3>
+<p align="center">🇮🇳 India</p>
 
-🚀 Passionate about **software development**, **problem-solving**, and learning **modern technologies**.  
-🎯 Actively preparing for **placements and technical interviews** through hands-on projects and continuous learning.
+<p align="center">
+  👨‍💻 Passionate Coder | Java Full Stack Developer | Problem Solver
+</p>
 
-📧 **Email Me:** ✉️ **prasadbanarase4@gmail.com**  
-🤝 Open for **Collaboration | Projects | Internships | Learning Opportunities** 😊
+<p align="center">
+  <a href="mailto:prasadbanarase4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prasadbanarase4@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/prasad-banarase">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Banarase-blue?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/prasad.banarase">
+    <img src="https://img.shields.io/badge/Instagram-@prasad.banarase-pink?style=flat-square&logo=instagram"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me  
 
-- 🔭 **Currently working on:**  
-  Java Full Stack applications and web development projects  
+🚀 Passionate about **software development**, **problem-solving**, and learning **modern technologies**.  
+🎯 Actively preparing for **placements and technical interviews** through hands-on projects.
 
-- 🌱 **Currently learning:**  
-  Core Java, Spring Boot, REST APIs, React, SQL, Data Structures & Algorithms  
+📧 **Email Me:** ✉️ **prasadbanarase4@gmail.com**  
+🤝 Open for **Collaboration | Projects | Internships | Learning Opportunities** 😊
 
-- 👯 **Looking to collaborate on:**  
-  Java Full Stack projects, open-source contributions, and real-world applications  
-
-- 🤔 **Looking for help with:**  
-  Backend optimization, system design basics, and scalable application architecture  
-
-- 💬 **Ask me about:**  
-  Java, Web Development, Git & GitHub, Project Collaboration  
-
-- 📫 **How to reach me:**  
-  **prasadbanarase4@gmail.com**  
-
-- 😄 **Pronouns:**  
-  Prasad Sir 😄  
-
-- ⚡ **Fun fact:**  
-  I love tech, and tech loves me back 💙  
+- 🔭 **Currently working on:** Java Full Stack & Web Development projects  
+- 🌱 **Currently learning:** Core Java, Spring Boot, REST APIs, React, SQL, DSA  
+- 👯 **Looking to collaborate on:** Java Full Stack & Open Source projects  
+- 🤔 **Looking for help with:** Backend optimization & system design basics  
+- 💬 **Ask me about:** Java, Web Development, Git & GitHub  
+- 😄 **Pronouns:** Prasad Sir  
+- ⚡ **Fun fact:** I love tech, and tech loves me back 💙  
 
 ---
 
-## 🔗 I am a Software Developer (in progress 🚀)
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌐 Socials  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasad.banarase)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-banarase)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadbanarase4@gmail.com)
-
----
-
-## 💻 Tech Stack  
+## 🛠️ Tech Stack  
 
 ### 👨‍💻 Languages & Core  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -83,30 +68,51 @@
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=prasad-banarase18&theme=radical&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prasad-banarase18&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&theme=radical&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasad-banarase18&theme=radical&show_icons=true" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=prasad-banarase18&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&theme=radical&layout=compact" height="150"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![](https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&no-frame=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&no-frame=false&no-bg=true&margin-w=10"/>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote  
+## 🐍 Contribution Snake Animation  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-### 🔝 Top Contributed Repositories  
-
-![](https://github-contributor-stats.vercel.app/api?username=prasad-banarase18&limit=5&theme=dark)
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✍️ Random Dev Quote  
 
-✨ *“Learn continuously. Build consistently. Grow professionally.”* ✨
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasad.banarase)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-banarase)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadbanarase4@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=6"/>
+</p>
+
+✨ <b>"Code daily. Build confidently. Grow continuously."</b> ✨
