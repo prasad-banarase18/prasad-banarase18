@@ -1,24 +1,13 @@
 <!-- ===================== PROFESSIONAL GITHUB PROFILE ===================== -->
 
-<h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
-<h3 align="center">Java Full Stack Developer | Software Developer</h3>
-<p align="center">🇮🇳 India</p>
+# 💫 Hi 👋, I'm Prasad Banarase  
+### 💻 Java Full Stack Developer | Software Developer  
+📍 India 🇮🇳  
 
-<p align="center">
-  <b>Building reliable software • Learning continuously • Improving daily</b>
-</p>
+**Building reliable software • Learning continuously • Improving daily**
 
-<p align="center">
-  <a href="mailto:prasadbanarase4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prasadbanarase4@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/prasad-banarase">
-    <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Banarase-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/prasad.banarase">
-    <img src="https://img.shields.io/badge/Instagram-@prasad.banarase-pink?style=flat-square&logo=instagram"/>
-  </a>
-</p>
+📧 **Email:** prasadbanarase4@gmail.com  
+🤝 Open to **collaboration, projects, internships, and learning opportunities**
 
 ---
 
@@ -27,57 +16,37 @@
 Passionate about **software development**, **problem-solving**, and working with **modern technologies**.  
 Actively building hands-on projects to strengthen **Java Full Stack development skills** and prepare for **technical interviews and industry roles**.
 
-📧 **Email:** prasadbanarase4@gmail.com  
-🤝 Open to **collaboration, projects, internships, and learning opportunities**
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:**  
-  Java Full Stack applications and web-based projects
-
-- 🌱 **Currently learning:**  
-  Core Java, Spring Boot, REST APIs, React, SQL, Data Structures & Algorithms
-
-- 👯 **Looking to collaborate on:**  
-  Java Full Stack projects, open-source contributions, and practical applications
-
-- 🤔 **Looking for help with:**  
-  Backend optimization, system design basics, and scalable application architecture
-
-- 💬 **Ask me about:**  
-  Java, Web Development, Git & GitHub, Project Collaboration
-
-- 😄 **Pronouns:**  
-  Prasad Sir
-
-- ⚡ **Fun fact:**  
-  I enjoy turning ideas into working software
+- 🔭 **Currently working on:** Java Full Stack applications and web-based projects  
+- 🌱 **Currently learning:** Core Java, Spring Boot, REST APIs, React, SQL, DSA  
+- 👯 **Looking to collaborate on:** Java Full Stack & open-source projects  
+- 🤔 **Looking for help with:** Backend optimization & scalable architectures  
+- 💬 **Ask me about:** Java, Web Development, Git & GitHub  
+- 😄 **Pronouns:** Prasad Sir  
+- ⚡ **Fun fact:** I enjoy turning ideas into working software  
 
 ---
 
 ## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake Animation"/>
-</p>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake Animation"/>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://instagram.com/prasad.banarase">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/prasad-banarase">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prasadbanarase4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://instagram.com/prasad.banarase">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/prasad-banarase">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:prasadbanarase4@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
@@ -110,39 +79,26 @@ Actively building hands-on projects to strengthen **Java Full Stack development 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-banarase18&show_icons=true&theme=radical" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasad-banarase18&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&layout=compact&theme=radical" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=prasad-banarase18&show_icons=true&theme=radical"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=prasad-banarase18&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&layout=compact&theme=radical"/>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&row=1&column=6"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&row=1&column=6"/>
 
 ---
 
 ## ✍️ Developer Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0"/>
-</p>
+<img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0"/>
 
-<p align="center">
-  <i>“Learn continuously. Build consistently. Grow professionally.”</i>
-</p>
+_“Learn continuously. Build consistently. Grow professionally.”_
 
 <!-- ===================== END PROFILE ===================== -->
