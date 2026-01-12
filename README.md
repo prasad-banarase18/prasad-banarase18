@@ -1,130 +1,112 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
-<h3 align="center">🚀 Aspiring Java Full Stack Developer | Software Developer</h3>
-<p align="center">🇮🇳 India</p>
+# 💫 Hi 👋, I'm Prasad Banarase  
+### 💻 Aspiring Java Full Stack Developer | Software Developer  
+📍 India 🇮🇳  
 
-<p align="center">
-  <a href="mailto:prasadbanarase4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prasadbanarase4@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/prasad-banarase">
-    <img src="https://img.shields.io/badge/LinkedIn-Prasad%20Banarase-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://instagram.com/prasad.banarase">
-    <img src="https://img.shields.io/badge/Instagram-@prasad.banarase-pink?style=flat-square&logo=instagram"/>
-  </a>
-</p>
+🚀 Passionate about **software development**, **problem-solving**, and learning **modern technologies**.  
+🎯 Actively preparing for **placements and technical interviews** through hands-on projects and continuous learning.
+
+📧 **Email Me:** ✉️ **prasadbanarase4@gmail.com**  
+🤝 Open for **Collaboration | Projects | Internships | Learning Opportunities** 😊
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me  
 
-💻 **Java Full Stack Developer** passionate about building **scalable, secure, and efficient web applications**.  
-🧠 Strong foundation in **Java, Spring Boot, REST APIs, SQL, and modern frontend frameworks**.  
-🎯 Focused on **clean code, problem-solving, and real-world project development**.
+- 🔭 **Currently working on:**  
+  Java Full Stack applications and web development projects  
 
----
+- 🌱 **Currently learning:**  
+  Core Java, Spring Boot, REST APIs, React, SQL, Data Structures & Algorithms  
 
-## 🧠 What I Do Best
+- 👯 **Looking to collaborate on:**  
+  Java Full Stack projects, open-source contributions, and real-world applications  
 
-- Build **end-to-end full stack applications**
-- Design **RESTful APIs** using Java & Spring Boot
-- Create responsive **frontend UIs**
-- Work with **relational databases**
-- Practice **DSA & core CS fundamentals**
+- 🤔 **Looking for help with:**  
+  Backend optimization, system design basics, and scalable application architecture  
 
----
+- 💬 **Ask me about:**  
+  Java, Web Development, Git & GitHub, Project Collaboration  
 
-## 🛠️ Tech Expertise
+- 📫 **How to reach me:**  
+  **prasadbanarase4@gmail.com**  
 
-### 🔹 Backend
-- Java (Core, OOPs, Collections)
-- Spring Boot
-- REST APIs
-- JDBC
+- 😄 **Pronouns:**  
+  Prasad Sir 😄  
 
-### 🔹 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React JS
-
-### 🔹 Database
-- MySQL
-- SQL
-
-### 🔹 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Netlify
+- ⚡ **Fun fact:**  
+  I love tech, and tech loves me back 💙  
 
 ---
 
-## 📌 Featured Projects
+## 🔗 I am a Software Developer (in progress 🚀)
 
-### 🔸 SpamGuard – Automated Spam Email Detection System  
-**Tech:** Java, SQL  
-- Detects and removes spam emails automatically  
-- Improves inbox safety and user experience  
-
-### 🔸 Java Full Stack CRUD Applications  
-**Tech:** Java, Spring Boot, React, MySQL  
-- Full CRUD functionality  
-- Clean REST architecture  
-
-### 🔸 Java Logic & DSA Programs  
-- Arrays, Strings, Patterns, Recursion  
-- Interview-oriented problem solving  
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-## 📊 GitHub Performance
+## 🌐 Socials  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-banarase18&show_icons=true&theme=radical" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prasad-banarase18&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&layout=compact&theme=radical" height="150"/>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasad.banarase)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-banarase)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadbanarase4@gmail.com)
 
 ---
 
-## 🏆 Achievements & Activity
+## 💻 Tech Stack  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&row=1&column=6"/>
-</p>
+### 👨‍💻 Languages & Core  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-## 🐍 Contribution Activity
+### ⚙️ Backend & Tools  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
-</p>
+### 🗄️ Database & Hosting  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
----
-
-## ✍️ Developer Mindset
-
-> **"First make it work. Then make it right. Then make it fast."**
-
----
-
-## 🤝 Let’s Connect & Build
-
-- 📧 Email: **prasadbanarase4@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/prasad-banarase**
-- 📸 Instagram: **@prasad.banarase**
-
-⭐ If you like my work, consider **starring my repositories**  
-🚀 Open to **projects, internships, and collaboration**
+### 🎨 Design  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=6"/>
-</p>
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=prasad-banarase18&theme=radical&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=prasad-banarase18&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&theme=radical&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies  
+
+![](https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&no-frame=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote  
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 🔝 Top Contributed Repositories  
+
+![](https://github-contributor-stats.vercel.app/api?username=prasad-banarase18&limit=5&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+✨ *“Learn continuously. Build consistently. Grow professionally.”* ✨
