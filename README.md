@@ -48,9 +48,17 @@
 
 ## 🌐 Socials  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasad.banarase)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasad-banarase)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadbanarase4@gmail.com)
+<p align="center">
+  <a href="https://instagram.com/prasad.banarase">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/prasad-banarase">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prasadbanarase4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -107,6 +115,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0"/>
+</p>
 
 ✨ *“Learn continuously. Build consistently. Grow professionally.”* ✨
