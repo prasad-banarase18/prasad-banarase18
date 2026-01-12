@@ -1,33 +1,45 @@
-
 <!-- ===================== PROFESSIONAL GITHUB PROFILE ===================== -->
 
-# 💫 Hi 👋, I'm Prasad Banarase  
-### 💻 Java Full Stack Developer | Software Developer  
-📍 India 🇮🇳  
+# ✨ Hi 👋, I'm Prasad Banarase  
+### 👨‍💻 Java Full Stack Developer | Software Developer  
+📍 🇮🇳 India  
 
-**Building reliable software • Learning continuously • Improving daily**
+**⚙️ Build • 🚀 Learn • 🔁 Improve**
 
 📧 **Email:** prasadbanarase4@gmail.com  
-🤝 Open to **collaboration, projects, internships, and learning opportunities**
+🤝 Open to **🤝 Collaboration | 🧩 Projects | 🎓 Internships | 📚 Learning Opportunities**
 
 ---
 
 ## 🚀 Profile Summary
 
-Passionate about **software development**, **problem-solving**, and working with **modern technologies**.  
-Actively building hands-on projects to strengthen **Java Full Stack development skills** and prepare for **technical interviews and industry roles**.
+💡 Passionate about **software development**, **problem-solving**, and working with **modern technologies**.  
+🎯 Actively building real-world projects to strengthen **Java Full Stack development skills** and prepare for **technical interviews and industry roles**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 **Currently working on:** Java Full Stack applications and web-based projects  
-- 🌱 **Currently learning:** Core Java, Spring Boot, REST APIs, React, SQL, DSA  
-- 👯 **Looking to collaborate on:** Java Full Stack & open-source projects  
-- 🤔 **Looking for help with:** Backend optimization & scalable architectures  
-- 💬 **Ask me about:** Java, Web Development, Git & GitHub  
-- 😄 **Pronouns:** Prasad Sir  
-- ⚡ **Fun fact:** I enjoy turning ideas into working software  
+- 🔭 **Currently working on:**  
+  Java Full Stack applications & web-based projects  
+
+- 🌱 **Currently learning:**  
+  Core Java, Spring Boot, REST APIs, React, SQL, DSA  
+
+- 👯 **Looking to collaborate on:**  
+  Java Full Stack projects & open-source contributions  
+
+- 🤔 **Looking for help with:**  
+  Backend optimization & scalable application architecture  
+
+- 💬 **Ask me about:**  
+  Java, Web Development, Git & GitHub, Project Collaboration  
+
+- 😄 **Pronouns:**  
+  Prasad Sir  
+
+- ⚡ **Fun fact:**  
+  I enjoy turning ideas into working software 🧠➡️💻  
 
 ---
 
@@ -53,27 +65,27 @@ Actively building hands-on projects to strengthen **Java Full Stack development 
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 🧩 Languages & Core
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-### Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### ⚙️ Backend & Tools
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Database & Hosting
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+### 🗄️ Database & Hosting
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### Design
+### 🎯 Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
@@ -100,6 +112,6 @@ Actively building hands-on projects to strengthen **Java Full Stack development 
 
 <img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=0&color=0"/>
 
-_“Learn continuously. Build consistently. Grow professionally.”_
+✨ *“Write clean code. Solve real problems. Keep growing.”* ✨
 
 <!-- ===================== END PROFILE ===================== -->
