@@ -98,9 +98,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=radical&row=1&column=6"/>
 
 ---
 
