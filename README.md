@@ -1,78 +1,159 @@
-<!-- ===================== PROFESSIONAL GITHUB PROFILE ===================== -->
-
 <h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot & React</h3>
+
+<h3 align="center">💻 Java Full Stack Developer | Frontend Developer | Software Engineer</h3>
 
 <p align="center">
-📍 India &nbsp;|&nbsp; 📧 prasadbanarase4@gmail.com &nbsp;|&nbsp; 🤝 Open to full-time roles & collaboration
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Frontend+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a Computer Science graduate building production-style full stack applications with **Java, Spring Boot, React, and MySQL**. Currently interning as a **FullStack Trainee at GRT Solutions**, working on real backend systems and REST APIs.
-
-- 🔭 Currently building: Spring Boot REST APIs & full stack web applications
-- 🌱 Actively working with: Java, Spring Boot, Spring Security, React.js, MySQL, REST APIs
-- 💼 Interning at: **GRT Solutions** (FullStack Trainee) · Previously **Upskill IT Training & Placement**
-- 🎓 B.E. Computer Science, Sant Gadge Baba Amravati University (2025)
-- 📜 Certified in Prompt Engineering (GitHub Copilot) & Generative AI Fundamentals
-- 💬 Ask me about: Java, Spring Boot, REST APIs, Full Stack Architecture
-- 👯 Looking to collaborate on: Full stack projects & open-source contributions
+- 🎓 B.Tech Graduate
+- 💻 Java Full Stack Developer
+- 🌱 Currently Learning Spring Boot, React & System Design
+- 👨‍💻 Love Building Real-World Projects
+- 📫 Reach me: **your-email@gmail.com**
+- 💼 Looking for Software Engineer Opportunities
 
 ---
 
-### 🚀 Featured Projects
+# 🌐 Connect With Me
 
-**🔹 Online Job Portal Management System** — Spring Boot · Spring Security · JWT · MySQL
-A full-scale backend for a job portal with role-based access (Job Seeker, Employer, Admin), JWT authentication, dynamic job search, resume uploads, and pagination.
-[🔗 View Repo](#)
+<p align="left">
 
-**🔹 Cloud Vendor Management REST API** — Spring Boot · MySQL · Layered Architecture
-A REST API for managing vendor data, built with a clean entity → repository → controller architecture.
-[🔗 View Repo](#)
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-> *(Replace the `#` links above with your actual repo URLs)*
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/prasad-banarase18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+# 💻 Tech Stack
 
-**Languages & Backend**
+### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Frontend**
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Database & Tools**
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<a href="https://linkedin.com/in/prasad-banarase">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:prasadbanarase4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 📧 SpamGuard
+AI-powered Spam Email Detection & Deletion System
+
+### 🏥 Hospital Management System
+Java + Spring Boot + React + MySQL
+
+### 💬 Chat Application
+Node.js + Express + Socket.IO
+
+### 🛒 E-Commerce Website
+HTML, CSS, JavaScript & React
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prasad-banarase18&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&layout=compact&theme=radical" height="165"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasad-banarase18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-banarase18&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<!-- ===================== END PROFILE ===================== -->
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-banarase18&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasad-banarase18&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prasad-banarase18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/prasad-banarase18/prasad-banarase18/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=prasad-banarase18&icon=5&color=6"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+✨ "Write Clean Code • Build Amazing Projects • Never Stop Learning" ✨
+
+</h3>
