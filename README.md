@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/prasad-banarase18/prasad-banarase18/main/assets/github-banner.jpeg"
+    alt="Prasad Banarase - Java Full Stack Developer"
+    width="100%"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
 
 <h3 align="center">💻 Java Full Stack Developer | React Developer | Software Developer</h3>
