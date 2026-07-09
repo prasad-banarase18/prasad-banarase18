@@ -1,3 +1,5 @@
+
+<h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
 <p align="center">
   <img
     src=P.jpeg
@@ -5,7 +7,6 @@
     width="100%"
   />
 </p>
-<h1 align="center">Hi 👋, I'm Prasad Banarase</h1>
 
 <h3 align="center">💻 Java Full Stack Developer | React Developer | Software Developer</h3>
 
