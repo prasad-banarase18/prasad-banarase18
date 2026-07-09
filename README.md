@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/prasad-banarase18/prasad-banarase18/main/assets/github-banner.jpg"
+    src=P.jpeg
     alt="Prasad Banarase - Java Full Stack Developer"
     width="100%"
   />
